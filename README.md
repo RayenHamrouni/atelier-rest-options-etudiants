@@ -5,7 +5,7 @@
 ## 1. Objectif
 Exposer sous forme d'API REST (JAX-RS / Jersey 2.27, Tomcat 9.0.75, Java 17) la gestion des **options** et des **étudiants** à partir des classes métier fournies (données en mémoire).
 
-URL de base : `http://localhost:8080/Gestion_Options_Etudiants_war_exploded/rest`
+URL de base : `http://localhost:8080/Gestion_Options_Etudiants/rest/options`
 
 ## 2. Travail réalisé
 | Fichier | Rôle |
